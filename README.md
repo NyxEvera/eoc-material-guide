@@ -307,6 +307,10 @@ In such a situation, abandoning your cargo may prevent the encounter from escala
 
 </details>
 
+
+<details>
+<summary>Guardian Artifacts</summary>
+
 ### **Guardian Artifacts**
 
 Guardian Artifacts include:
@@ -328,6 +332,11 @@ Guardian Artifacts can be found at **Guardian Structures** and **Guardian Ruins*
 
 They do not cause any damage to your SRV or ship, but they do require cargo space for transportation.
 
+</details>
+
+
+<details>
+<summary>Guardian Blueprint Fragments</summary>
 
 ### **Guardian Blueprint Fragments**
 
@@ -347,7 +356,11 @@ Examples:
 - Module Blueprint: "Placeholder"
 - Vessel Blueprint: "Placeholder"
 
----
+</details>
+
+
+<details>
+<summary>Weapon & Module Blueprint Fragments</summary>
 
 **Weapon & Module Blueprint Fragments**
 
@@ -365,7 +378,11 @@ Once all six pylons are charged, return to the altar and jettison the Guardian R
 
 This will activate the structure and reveal a floating orb. Scan the orb using your ship's or SRV's Data Link Scanner to receive the Blueprint Fragment.
 
----
+</details>
+
+
+<details>
+<summary>Vessel Blueprint Fragments</summary>
 
 **Vessel Blueprint Fragments**
 
@@ -385,6 +402,11 @@ This will once again reveal a floating orb, which grants the Vessel Blueprint Fr
 
 Guardian Structure sites are protected by **Guardian Sentinels**, hostile drones that usually must be fought using your SRV.
 
+</details>
+
+
+<details>
+<summary>Guardian Components</summary>
 
 ### **Guardian Components**
 
@@ -406,6 +428,11 @@ All of these can be collected using an SRV and are stored in your **Manufactured
 
 They do not require cargo space.
 
+</details>
+
+
+<details>
+<summary>Guardian Scan Data</summary>
 
 ### **Guardian Scan Data**
 
@@ -458,8 +485,11 @@ The following links may help:
 - Link Placeholder
 - Link Placeholder
 
+</details>
 
 
+<details>
+<summary>Equipment & Ship Suggetions</summary>
 
 ### **Equipment & Ship Suggetions:**
 
@@ -484,3 +514,5 @@ Unlock requirements:
 
 [Cobra Mk.V - Multitool (No Engineering)](https://edsy.org/#/L=JG00000H4C0S20,Hf510Hf510K4i10Eht10Eht10,Cjw00CzY00DBw00,9p300A7200AMg00AcJ20Aqq00B5Y00BK400Bb600,,7T4104-O200730015O0013q105T4001IM002jw000nF20,Multitool_0Unengineered)
 [Cobra Mk.V - Multitool (Engineered)](https://edsy.org/#/L=JG00000H4C0S00,Hf5G0BI_W0Hf5G0BM_W0K4iG03G_W0EhtG03K_W0EhtG03K_W0,CjwG02G_W0CzYG05G_W0DBwG09L_W0DBwG05L_W0,9opG0BI_W0A72G07K_W0AMgG05I_W0AcJG-bJ0060upD6upD8qpDE_PcGzcQKsPcAqqG02m_W0B5YG03L_W0BK4G05G_W0Bb600,,34a004_w007RWG09I_W00730013qH05I_W05T4G03G_W01IM002jwG09G_W00nF00,Multotool_0Engineered)
+
+</details>
