@@ -362,7 +362,7 @@ Examples:
 <details>
 <summary>Weapon & Module Blueprint Fragments</summary>
 
-**Weapon & Module Blueprint Fragments**
+### Weapon & Module Blueprint Fragments
 
 To obtain a Weapon or Module Blueprint Fragment, you will need a **Guardian Relic**, which can usually be found somewhere within the Guardian Structure site itself.
 
@@ -384,7 +384,7 @@ This will activate the structure and reveal a floating orb. Scan the orb using y
 <details>
 <summary>Vessel Blueprint Fragments</summary>
 
-**Vessel Blueprint Fragments**
+### Vessel Blueprint Fragments
 
 To obtain a Vessel Blueprint Fragment, you first need to visit a system containing a **Guardian Beacon**. Guardian Beacons are large rotating structures located in space.
 
@@ -408,7 +408,7 @@ Guardian Structure sites are protected by **Guardian Sentinels**, hostile drones
 <details>
 <summary>Guardian Components</summary>
 
-### **Guardian Components**
+### Guardian Components
 
 Guardian Components can be found within **Guardian Structures**. Some are hidden behind destructible panels, while others can be obtained from destroyed Guardian Sentinels.
 
@@ -434,7 +434,7 @@ They do not require cargo space.
 <details>
 <summary>Guardian Scan Data</summary>
 
-### **Guardian Scan Data**
+### Guardian Scan Data
 
 Guardian Scan Data can be obtained by scanning **Guardian Obelisks**. These can be found at both **Guardian Structures** and **Guardian Ruins**. In general, Guardian Ruins tend to contain more obelisks than active Structure sites.
 
@@ -491,7 +491,7 @@ The following links may help:
 <details>
 <summary>Equipment & Ship Suggetions</summary>
 
-### **Equipment & Ship Suggetions:**
+### Equipment & Ship Suggetions:
 
 **Corrosion Resistant Cargo Rack**
 
