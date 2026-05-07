@@ -216,6 +216,7 @@ If your ship or pilot is not properly prepared for such an encounter, this will 
 
 In such a situation, abandoning your cargo may prevent the encounter from escalating further.
 
+</details>
 
 <details>
 <summary>Titan Drive Component</summary>
