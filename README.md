@@ -12,6 +12,13 @@ To make identification easier, materials in this guide are divided into the foll
 
 Note: Some materials require special equipment for safe transportation. Recommendations for useful modules and ship fittings can be found at the end of this guide.
 
+## Contents
+
+- [Raw Materials](#raw-materials)
+- [Manufactured Materials](#manufactured-materials)
+- [Encoded Materials](#encoded-materials)
+- [Special Materials](#special-materials)
+- [Equipment & Ship Suggestions](#equipment--ship-suggestions)
 
 <details>
 <summary><strong>Raw Materials</strong></summary>
