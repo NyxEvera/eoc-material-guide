@@ -156,7 +156,11 @@ Note: Allegiance "Any" is technically correct, but I recommend farming in Indepe
 Federation and Empire systems can spawn their own faction-specific HGEs and materials, which dilutes the spawn pool and makes it harder to consistently find the material you are looking for.
 </details>
 
-### **Encoded Materials**
+
+<details>
+<summary><strong>Encoded Materials</strong></summary>
+
+### Encoded Materials
 Encoded Materials are divided into seven categories and five grades. Like Raw and Manufactured Materials, they can be obtained through a variety of in-game activities.
 
 Common sources include:
@@ -185,6 +189,8 @@ Continue scanning until you have maxed out _Adaptive Encryptors Capture_ and _At
 Once finished, head to Ray Gateway and use the Encoded Material Trader to cross-trade and down-trade into the materials you actually need.
 
 Yes, the process is tedious. However, once you are done, you will likely have enough Encoded Materials for months, possibly even an entire year.
+
+</details>
 
 ### Special Materials:
 
