@@ -487,6 +487,7 @@ The following links may help:
 
 </details>
 
+### Equipment & Ship Suggetions:
 
 <details>
 <summary>Equipment & Ship Suggetions</summary>
