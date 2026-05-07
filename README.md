@@ -14,7 +14,6 @@ Note: Some materials require special equipment for safe transportation. Recommen
 
 ## Contents
 
----
 
 - [Raw Materials](#raw-materials)
 - [Manufactured Materials](#manufactured-materials)
@@ -22,7 +21,6 @@ Note: Some materials require special equipment for safe transportation. Recommen
 - [Special Materials](#special-materials)
 - [Equipment & Ship Suggestions](#equipment--ship-suggestions)
 
----
 
 <details>
 <summary><strong>Raw Materials</strong></summary>
