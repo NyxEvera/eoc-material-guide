@@ -487,10 +487,10 @@ The following links may help:
 
 </details>
 
-### Equipment & Ship Suggetions:
+### Equipment & Ship Suggestions:
 
 <details>
-<summary>Equipment & Ship Suggetions</summary>
+<summary>Equipment & Ship Suggestions</summary>
 
 ### Corrosion Resistant Cargo Rack
 
