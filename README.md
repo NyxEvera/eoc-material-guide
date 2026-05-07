@@ -194,6 +194,10 @@ Yes, the process is tedious. However, once you are done, you will likely have en
 
 ### Special Materials:
 
+
+<details>
+<summary>Thargoid-Related Materials</summary>
+
 ### **Thargoid-Related Materials**
 
 This category includes items such as _Caustic Crystals_, _Thargoid Hearts_, _Caustic Shards_, and various _Tissue Samples_.
@@ -212,6 +216,10 @@ If your ship or pilot is not properly prepared for such an encounter, this will 
 
 In such a situation, abandoning your cargo may prevent the encounter from escalating further.
 
+
+<details>
+<summary>Titan Drive Component</summary>
+
 ### **Titan Drive Components**
 
 Titan Drive Components can be obtained from Titan wrecks. They can be found randomly floating through space in the vicinity of a destroyed Titan.
@@ -228,6 +236,12 @@ Because of this, I recommend using a ship with at least basic defenses, some wea
 To transport these materials safely, you will need a **Corrosion Resistant Cargo Rack**.
 
 It is possible to carry them without one, but your ship will suffer continuous caustic damage that may eventually lead to its destruction.
+
+</details>
+
+
+<details>
+<summary>Thargoids Sensors</summary>
 
 ### **Thargoid Sensors**
 
@@ -254,6 +268,11 @@ If your ship or pilot is not properly prepared for such an encounter, this will 
 
 In such a situation, abandoning your cargo may prevent the encounter from escalating further.
 
+</details>
+
+
+<details>
+<summary>Thargoid Sensor Fragments</summary>
 
 ### **Thargoid Sensor Fragments**
 
@@ -265,6 +284,11 @@ They are stored in your **Material Storage**, not in your ship's cargo hold.
 
 Another way to obtain Sensor Fragments is to intentionally destroy an intact Thargoid Sensor and collect the fragments afterwards.
 
+</details>
+
+
+<details>
+<summary>Meta Alloys</summary>
 
 ### **Meta Alloys**
 
@@ -280,7 +304,7 @@ If your ship or pilot is not properly prepared for such an encounter, this will 
 
 In such a situation, abandoning your cargo may prevent the encounter from escalating further.
 
-
+</details>
 
 ### **Guardian Artifacts**
 
