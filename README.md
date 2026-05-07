@@ -492,8 +492,6 @@ The following links may help:
 <details>
 <summary>Equipment & Ship Suggetions</summary>
 
-### Equipment & Ship Suggetions:
-
 **Corrosion Resistant Cargo Rack**
 
 **Class 1-4 (Cargo Capacity) modules** are exclusively sold at two locations:
