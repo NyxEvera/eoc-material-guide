@@ -77,7 +77,10 @@ After a second visit to the hotspots — which required significantly less effor
 </details>
 
 
+<details>
+<summary><strong>Manufactured Materials</strong></summary>
 ### **Manufactured Materials**
+  
 Manufactured Materials are divided into seven categories and five grades. Because of the high variety of materials, we will focus on Grade 5 materials only. Once you have obtained them, you can trade them down and eventually fill up on every Manufactured Material in the game.
 
 Note: As with Raw Materials, I generally do not recommend cross-trading or up-trading, except for Exquisite Focus Crystals and Biotech Conductors.
@@ -150,7 +153,7 @@ Inside the signal source you will find a debris field containing Grade 5 Manufac
 Note: Allegiance "Any" is technically correct, but I recommend farming in Independent or Alliance systems whenever possible.
 
 Federation and Empire systems can spawn their own faction-specific HGEs and materials, which dilutes the spawn pool and makes it harder to consistently find the material you are looking for.
-
+</details>
 
 ### **Encoded Materials**
 Encoded Materials are divided into seven categories and five grades. Like Raw and Manufactured Materials, they can be obtained through a variety of in-game activities.
