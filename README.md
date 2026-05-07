@@ -46,7 +46,6 @@ It is highly recommended to trade materials **within the same category**, prefer
 
 Cross-trading between categories or trading upwards from low-grade to high-grade materials is extremely inefficient and should only be considered if you urgently need a specific material.
 
----
 
 | Category | Grade 1 | Grade 2 | Grade 3 | Grade 4 | Grade 5 |
 |---|---|---|---|---|---|
@@ -58,7 +57,6 @@ Cross-trading between categories or trading upwards from low-grade to high-grade
 | Category 6 | Rhenium | Mercury | Polonium | — | — |
 | Category 7 | Lead | Zirconium | Arsenic | Antimony | — |
 
----
 
 **Known High-Grade Raw Material Hotspots**
 
@@ -71,7 +69,6 @@ The following systems are well-known farming locations for high-grade raw materi
 | Coordinates | 34.74 / 7.40 | -24.60 / 105.35 | 67.00 / 131.75 | 3.74 / 76.68 | -1.92 / 145.70 | -62.49 / 40.24 | 45.66 / -30.49 |
 | Source | Crystal Shard Clusters | Crystal Shard Clusters | Crystal Shard Clusters | Crystal Shard Clusters | Crystal Shard Clusters | Crystal Shard Clusters | Brain Trees |
 
----
 
 It is also possible to farm raw materials from Brain Trees using a ship and Collector Limpets. However, this method has been partially nerfed by Frontier Developments and now requires specific graphics settings to work reliably.
 
@@ -405,7 +402,6 @@ Just like at Weapon and Module Structure sites, activate all six energy pylons. 
 
 This will once again reveal a floating orb, which grants the Vessel Blueprint Fragment after being scanned.
 
----
 
 **Warning**
 
@@ -464,7 +460,6 @@ Note
 
 **Guardian Data** is mainly used for the missions of the Engineer Ram Tah and for Guardian lore progression.
 
----
 
 Pattern Data Categories
 
@@ -474,7 +469,6 @@ Pattern Data Categories
 - Pattern Delta Obelisk Data
 - Pattern Epsilon Obelisk Data
 
----
 
 Guardian Data Categories
 
