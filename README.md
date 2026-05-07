@@ -198,7 +198,7 @@ Yes, the process is tedious. However, once you are done, you will likely have en
 <details>
 <summary>Thargoid-Related Materials</summary>
 
-### **Thargoid-Related Materials**
+### Thargoid-Related Materials
 
 This category includes items such as _Caustic Crystals_, _Thargoid Hearts_, _Caustic Shards_, and various _Tissue Samples_.
 
@@ -221,7 +221,7 @@ In such a situation, abandoning your cargo may prevent the encounter from escala
 <details>
 <summary>Titan Drive Component</summary>
 
-### **Titan Drive Components**
+### Titan Drive Components
 
 Titan Drive Components can be obtained from Titan wrecks. They can be found randomly floating through space in the vicinity of a destroyed Titan.
 
@@ -244,7 +244,7 @@ It is possible to carry them without one, but your ship will suffer continuous c
 <details>
 <summary>Thargoids Sensors</summary>
 
-### **Thargoid Sensors**
+### Thargoid Sensors
 
 Thargoid Sensors can be found in several locations, for example in Threat Level 4 Non-Human Signal Sources, where encounters with Thargoids are very likely, or at Thargoid crash sites on planetary surfaces.
 
@@ -275,7 +275,7 @@ In such a situation, abandoning your cargo may prevent the encounter from escala
 <details>
 <summary>Thargoid Sensor Fragments</summary>
 
-### **Thargoid Sensor Fragments**
+### Thargoid Sensor Fragments
 
 Thargoid Sensor Fragments can be found on planetary surfaces throughout the galaxy at locations known as Non-Human Signature Sites. These sites usually contain a crashed Thargoid Sensor with fragments scattered around the area.
 
@@ -291,7 +291,7 @@ Another way to obtain Sensor Fragments is to intentionally destroy an intact Tha
 <details>
 <summary>Meta Alloys</summary>
 
-### **Meta Alloys**
+### Meta Alloys
 
 Meta Alloys can also be obtained from Titan wrecks, but unlike Thargoid Sensors or Titan Drive Components, they do **not** cause caustic damage.
 
@@ -311,7 +311,7 @@ In such a situation, abandoning your cargo may prevent the encounter from escala
 <details>
 <summary>Guardian Artifacts</summary>
 
-### **Guardian Artifacts**
+### Guardian Artifacts
 
 Guardian Artifacts include:
 
@@ -338,7 +338,7 @@ They do not cause any damage to your SRV or ship, but they do require cargo spac
 <details>
 <summary>Guardian Blueprint Fragments</summary>
 
-### **Guardian Blueprint Fragments**
+### Guardian Blueprint Fragments
 
 Guardian Blueprint Fragments are divided into different categories, most notably:
 
