@@ -358,8 +358,8 @@ Each type of Blueprint Fragment requires visiting a specific type of **Guardian 
 
 Examples:
 
-- Weapon Blueprint: "Placeholder"
-- Module Blueprint: "Placeholder"
+- Weapon Blueprint: Synuefe GV-T b50-4  Planet B1
+- Module Blueprint: Synuefe GT-H b43-1 Planet C4
 - Vessel Blueprint: "Placeholder"
 
 </details>
