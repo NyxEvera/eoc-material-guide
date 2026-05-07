@@ -79,7 +79,8 @@ After a second visit to the hotspots — which required significantly less effor
 
 <details>
 <summary><strong>Manufactured Materials</strong></summary>
-### **Manufactured Materials**
+
+  ### Manufactured Materials
   
 Manufactured Materials are divided into seven categories and five grades. Because of the high variety of materials, we will focus on Grade 5 materials only. Once you have obtained them, you can trade them down and eventually fill up on every Manufactured Material in the game.
 
