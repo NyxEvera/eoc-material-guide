@@ -13,7 +13,10 @@ To make identification easier, materials in this guide are divided into the foll
 Note: Some materials require special equipment for safe transportation. Recommendations for useful modules and ship fittings can be found at the end of this guide.
 
 
-### **Raw Materials**
+<details>
+<summary><strong>Raw Materials</strong></summary>
+
+### Raw Materials
 
 Raw Materials are divided into seven categories and four effective grades, as shown in the table below.
 
@@ -36,15 +39,15 @@ Cross-trading between categories or trading upwards from low-grade to high-grade
 
 ---
 
-|Category|Grade 1|Grade 2|Grade 3|Grade 4|Grade 5|
+| Category | Grade 1 | Grade 2 | Grade 3 | Grade 4 | Grade 5 |
 |---|---|---|---|---|---|
-|Category 1|Carbon|Vanadium|Niobium|Yttrium|—|
-|Category 2|Phosphorus|Chromium|Molybdenum|Technetium|—|
-|Category 3|Sulphur|Manganese|Cadmium|Ruthenium|—|
-|Category 4|Iron|Zinc|Tin|Selenium|—|
-|Category 5|Nickel|Germanium|Tungsten|Tellurium|—|
-|Category 6|Rhenium|Mercury|Polonium|—|—|
-|Category 7|Lead|Zirconium|Arsenic|Antimony|—|
+| Category 1 | Carbon | Vanadium | Niobium | Yttrium | — |
+| Category 2 | Phosphorus | Chromium | Molybdenum | Technetium | — |
+| Category 3 | Sulphur | Manganese | Cadmium | Ruthenium | — |
+| Category 4 | Iron | Zinc | Tin | Selenium | — |
+| Category 5 | Nickel | Germanium | Tungsten | Tellurium | — |
+| Category 6 | Rhenium | Mercury | Polonium | — | — |
+| Category 7 | Lead | Zirconium | Arsenic | Antimony | — |
 
 ---
 
@@ -52,7 +55,7 @@ Cross-trading between categories or trading upwards from low-grade to high-grade
 
 The following systems are well-known farming locations for high-grade raw materials:
 
-| Material    | Polonium | Ruthenium | Tellurium | Technetium | Yttrium | Antimony | Selenium |
+| Material | Polonium | Ruthenium | Tellurium | Technetium | Yttrium | Antimony | Selenium |
 |---|---|---|---|---|---|---|---|
 | System | HIP 36601 | HIP 36601 | HIP 36601 | HIP 36601 | Outotz LS-K d8-3 | Outotz LS-K d8-3 | HR 3230 |
 | Planet | C1A | C1D | C3B | C5A | B5A | B5C | 3AA |
@@ -71,6 +74,7 @@ Afterwards, I visited a Raw Material Trader and traded the high-grade materials 
 
 After a second visit to the hotspots — which required significantly less effort — I was fully stocked on all Raw Materials.
 
+</details>
 
 
 ### **Manufactured Materials**
