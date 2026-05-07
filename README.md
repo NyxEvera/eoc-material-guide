@@ -14,6 +14,8 @@ Note: Some materials require special equipment for safe transportation. Recommen
 
 ## Contents
 
+---
+
 - [Raw Materials](#raw-materials)
 - [Manufactured Materials](#manufactured-materials)
 - [Encoded Materials](#encoded-materials)
